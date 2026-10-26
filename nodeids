@@ -1,0 +1,13 @@
+[
+  "tests/test_model.py::test_dataset_has_expected_features_and_missing_values",
+  "tests/test_model.py::test_dataset_rejects_invalid_target",
+  "tests/test_model.py::test_flask_home_health_and_prediction_endpoints",
+  "tests/test_model.py::test_invalid_inputs_are_rejected[updates0-ram_gb must be between]",
+  "tests/test_model.py::test_invalid_inputs_are_rejected[updates1-battery_mah must be between]",
+  "tests/test_model.py::test_invalid_inputs_are_rejected[updates2-processor_category must be one of]",
+  "tests/test_model.py::test_missing_input_is_rejected",
+  "tests/test_model.py::test_missing_model_reports_training_command",
+  "tests/test_model.py::test_model_load_and_prediction",
+  "tests/test_model.py::test_streamlit_app_starts_and_renders_inr_prediction",
+  "tests/test_model.py::test_training_saves_pipeline_metrics_and_plots"
+]
